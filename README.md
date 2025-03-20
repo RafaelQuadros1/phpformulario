@@ -35,3 +35,8 @@ php artisan key:generate
 ```
 php artisan serve
 ```
+
+**executar as migrations para criar a base de dados**
+```
+php artisan migrate
+```
